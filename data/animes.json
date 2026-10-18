@@ -1,0 +1,10 @@
+[
+  {"titol":"Fullmetal Alchemist: Brotherhood","genere":"Aventura","any":2009,"episodis":64,"puntuacio":9.1,"imatge":"/img/fma.jpg","sinopsi":"Dos germans alquimistes busquen la pedra filosofal per recuperar els seus cossos després d'un ritual prohibit."},
+  {"titol":"Attack on Titan","genere":"Acció","any":2013,"episodis":87,"puntuacio":9.0,"imatge":"/img/aot.jpg","sinopsi":"La humanitat viu darrere de murs gegants per protegir-se dels titans que l'amenacen."},
+  {"titol":"Death Note","genere":"Thriller","any":2006,"episodis":37,"puntuacio":8.6,"imatge":"/img/deathnote.jpg","sinopsi":"Un estudiant troba un quadern que mata qualsevol persona el nom de la qual hi escrigui."},
+  {"titol":"Your Name","genere":"Romàntic","any":2016,"episodis":1,"puntuacio":8.9,"imatge":"/img/yourname.jpg","sinopsi":"Dos adolescents que no es coneixen intercanvien els cossos de manera misteriosa."},
+  {"titol":"Spirited Away","genere":"Fantasia","any":2001,"episodis":1,"puntuacio":8.8,"imatge":"/img/spirited.jpg","sinopsi":"Una nena queda atrapada en un món d'esperits i ha de treballar en una casa de banys per salvar els seus pares."},
+  {"titol":"Cowboy Bebop","genere":"Aventura","any":1998,"episodis":26,"puntuacio":8.9,"imatge":"/img/bebop.jpg","sinopsi":"Una tripulació de caçarrecompenses recorre el sistema solar entre missions, jazz i passats turbulents."},
+  {"titol":"Haikyu!!","genere":"Esports","any":2014,"episodis":85,"puntuacio":8.7,"imatge":"/img/haikyu.jpg","sinopsi":"Un jove baixet però ple d'energia vol arribar a ser el millor jugador de voleibol de l'institut."},
+  {"titol":"Frieren","genere":"Fantasia","any":2023,"episodis":28,"puntuacio":9.3,"imatge":"/img/frieren.jpg","sinopsi":"Una maga elfa reflexiona sobre el pas del temps després de la derrota del Rei Dimoni."}
+]
