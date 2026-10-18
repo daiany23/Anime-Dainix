@@ -6,3 +6,4 @@ dist
 serviceAccountKey.json
 *.log
 .firebase
+.DS_Store
